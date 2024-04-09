@@ -12,7 +12,7 @@ This Todo App is a simple yet powerful tool for managing your tasks. It allows y
 
 ### Preview
 
-[![Todo App Preview](todo-preview.png)](./preview.png)
+[![Todo App Preview](./preview.png)]
 
 
 ### Technologies Used
